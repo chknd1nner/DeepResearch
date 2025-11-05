@@ -17,6 +17,7 @@ Sources:
   - Open source prompts for Claude research agents[https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents/prompts]
 
 **The opportunity**
+
 Knowing that:
 1. Research is just an implementation of agents-orchestrator to plan and synthesise, sub agents to search and cite
 2. Claude Code has the ability to spawn multiple sub agents
